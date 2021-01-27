@@ -1,0 +1,88 @@
+
+15:7:5
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=505 y=426
+15:7:7
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=425 y=261
+15:7:7
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=322 y=359
+15:7:8
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=276 y=725
+15:7:8
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=255 y=994
+15:7:9
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=210 y=984
+15:7:9
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=430 y=481
+15:7:9
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=406 y=398
+15:7:9
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=380 y=158
+15:7:10
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=242 y=908
+15:7:11
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=456 y=948
+15:7:11
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=1102 y=945
+15:7:11
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=1393 y=831
+15:7:11
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=966 y=391
+15:7:12
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=499 y=297
+15:7:12
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=431 y=465
+15:7:12
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=294 y=869
+15:7:12
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=257 y=829
+15:7:13
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=654 y=582
+15:7:13
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=434 y=735
+15:7:13
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=258 y=740
+15:7:14
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=180 y=655
+15:7:14
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=180 y=657
+15:7:14
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=180 y=660
+15:7:15
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=184 y=655
+15:7:15
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=184 y=655
+15:7:15
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=184 y=655
+15:7:17
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=200 y=667
+15:7:17
+event type: MOUSE_CLICKED source: AnchorPane[id=thepane, styleClass=root]
+ coords: x=200 y=667
